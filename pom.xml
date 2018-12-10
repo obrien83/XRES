@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.mir</groupId>
-    <artifactId>xamppTest</artifactId>
+    <artifactId>xres</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>
-    <name>xammpTest</name>
+    <name>xres</name>
 
     <properties>
         <jdk.version>1.8</jdk.version>

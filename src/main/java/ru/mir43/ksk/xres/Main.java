@@ -11,7 +11,7 @@ import org.apache.logging.log4j.Logger;
 import java.io.IOException;
 
 /**
- * XOCSer is a small program working in two modes:
+ * XRES is a small program working in two modes:
  * server and client. In both modes the program sets connection with the XMPP server,
  * using the config.proprieties file. (The Smack library is used). The server mode,
  * using the http://checkip.amazonaws.com service, clarifies the external IP address of
